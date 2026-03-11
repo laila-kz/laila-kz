@@ -1,92 +1,58 @@
 # Hi, I'm Leila Khezaz 👋
 
-🎓 **AI & Data Science Engineering Student** at ENSA Safi
-💡 Passionate about **Machine Learning, Data Science, and Intelligent Systems**
-📍 Based in Morocco | Open to **Remote Data Science / AI Opportunities**
+🎓 AI & Data Science Engineering Student at ENSA Safi  
+💡 Interested in Machine Learning, Data Science, and Intelligent Systems  
+📍 Morocco | Open to Remote Data Science / AI Opportunities
 
-I build intelligent systems and data-driven applications combining **machine learning, computer vision, and statistical analysis**.
-My work focuses on transforming raw data into **predictive models, insights, and real-world AI solutions**.
+I enjoy building **data-driven systems and machine learning models** that transform raw data into insights and predictions.
 
-I also document my learning journey and technical explorations on my blog.
 
-✍️ **Medium Blog**
-https://medium.com/@leilakhezaz07
+
 
 ---
 
-# About Me:
-I'm currently studying AI and Data Science and enjoy exploring how data and machine learning can be used to solve real problems.
+## 🚀 What I'm Currently Working On
 
-* 🎓 **Second-Year Engineering Student** specializing in **Artificial Intelligence & Data Science**
-* 📊 Experience with **Machine Learning, Statistical Modeling, and Data Visualization**
-* 🧠 Interested in **Deep Learning, Data science , and Computer Vision**
-* 🏆 Hackathon participant working on **AI-driven decision systems**
+- Data analysis and business insight projects
+- Machine learning experiments
+- Exploring LLMs and data engineering basics
+- Building small projects to strengthen my data science workflow
+
 
 ---
 
-# Tech Stack
+## 🛠 Tools & Technologies
 
-### Programming
+**Programming**  
+Python • R • SQL • C++
 
-Python • R • SQL • C++ • JavaScript
+**Data Science & Machine Learning**  
+Pandas • NumPy • Scikit-learn • XGBoost
 
-### Data Science & Machine Learning
-
-Pandas • NumPy • Scikit-learn • XGBoost • Statistical Modeling
-
-### Computer Vision
-
-OpenCV • CNNs • Image Processing • Real-time Inference Systems
-
-### Visualization & Data Apps
-
+**Data Visualization**  
 Matplotlib • Seaborn • Plotly • Streamlit
 
-### Databases
+**Databases**  
+MySQL • PostgreSQL • SQLite
 
-MySQL • PostgreSQL • SQL Server • SQLite
-
-### Tools
-
+**Tools**  
 Git • GitHub • Jupyter Notebook • VS Code • Linux
 
----
-## What You'll Find on My GitHub
-
-On this profile I share projects related to:
-
-*Data analysis and business insights*
-
-*Machine learning experiments*
-
-*Computer vision applications*
-
-*Implementing ML algorithms from scratch*
-
-*Small tools I build while learning*
 
 ---
 
-# What I'm Currently Learning
+## 📬 How to Reach Me
 
-* Data Engineering basics
-* Large Language Models (LLMs)
-* Data Engineering pipelines
-* Data science
-* Data Analytics
-
----
-
-# Connect With Me
-
-GitHub
+**GitHub**  
 https://github.com/laila-kz
 
-Medium
+**LinkedIn**  
+https://www.linkedin.com/in/leila-khezaz-a57779336
+
+**Medium**  
 https://medium.com/@leilakhezaz07
 
-LinkedIn
-www.linkedin.com/in/leila-khezaz-a57779336
+
 ---
 
- *I enjoy building intelligent systems, exploring data, and sharing what I learn along the way.*
+⭐ I enjoy exploring data, building intelligent systems, and sharing what I learn along the way.
