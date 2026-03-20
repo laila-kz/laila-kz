@@ -1,4 +1,4 @@
-# Hi, I'm Leila Khezaz 👋
+# Hi 👋
 
 🎓 AI & Data Science Engineering Student at ENSA Safi  
 💡 Interested in Machine Learning, Data Science, and Intelligent Systems  
