@@ -49,9 +49,6 @@ https://github.com/laila-kz
 **LinkedIn**  
 https://www.linkedin.com/in/leila-khezaz-a57779336
 
-**Medium**  
-https://medium.com/@leilakhezaz07
-
 
 ---
 
