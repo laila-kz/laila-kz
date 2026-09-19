@@ -77,4 +77,4 @@ I document key decisions with ADRs—favoring simple, proven tools over unnecess
 
 ## Get in touch
 
-Open to Data Engineer / AI Engineer internships (4–6 months), Europe or Canada. Reach me at [laila.khezaz@gmail.com](mailto:leilakhezaz07@gmail.com) or on [LinkedIn]([https://linkedin.com/in/laila-khezaz](https://www.linkedin.com/in/leila-k-a57779336/)).
+Open to Data Engineer / AI Engineer internships (4–6 months), Europe or Canada. Reach me at [leilakhezaz07@gmail.com](mailto:leilakhezaz07@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/leila-k-a57779336/).
