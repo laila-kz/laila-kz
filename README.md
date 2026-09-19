@@ -78,3 +78,8 @@ I document key decisions with ADRs—favoring simple, proven tools over unnecess
 ## Get in touch
 
 Open to Data Engineer / AI Engineer internships (4–6 months), Reach me at [leilakhezaz07@gmail.com](mailto:leilakhezaz07@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/leila-k-a57779336/).
+
+## Organizations & Teams
+
+[![Weavetab](https://img.shields.io/badge/Weavetab-Browser%20AI%20Agents-blue?style=flat-square)](https://github.com/Weavetab)
+[![Essential Devs](https://img.shields.io/badge/Essential--Devs-Collaborative%20Dev-black?style=flat-square)](https://github.com/Essential-devs)
