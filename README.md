@@ -1,71 +1,53 @@
 # Laila Khezaz
 
-**Data & Analytics Engineering Student | AI & Data Science Background**  
-Safi / Casablanca, Morocco • [LinkedIn](https://linkedin.com/in/laila-khezaz) • [Email](mailto:laila.khezaz@gmail.com)
+**Data Engineer (internship-track)** · AI & Data Science Engineering student, ENSA Safi — Bac+5, expected June 2027
+
+Safi / Casablanca, Morocco · [laila.khezaz@gmail.com](mailto:laila.khezaz@gmail.com) · [LinkedIn](https://linkedin.com/in/laila-khezaz)
 
 ---
 
-### 💡 About Me
+## About
 
-I am a final-year Engineering student in AI & Data Science at **ENSA Safi** (State Engineer Diploma / Bac+5), specializing in **Data Engineering, Lakehouse Architectures, and Analytics Engineering**. 
+I build data infrastructure, not dashboards-with-extra-steps: contract-validated ingestion, medallion pipelines that fail loudly when they should, and orchestration that survives a clean re-clone. Most of my recent work has been on lakehouse architecture (BigQuery, Snowflake, Delta Lake), dbt-based transformation and testing, and the governance layer that keeps both humans and AI agents from writing bad data to production.
 
-My focus is on building reliable, contract-governed batch/streaming data pipelines, medallion data warehouses, and automated testing frameworks. I bridge the gap between raw, unstructured data and analytical consumption using tools like **PySpark, dbt, Airflow, Snowflake, BigQuery, and Delta Lake**.
+Every non-trivial technical decision I make gets an ADR — including the ones where I chose *not* to use the trendier tool.
 
----
+## Currently
 
-### 🎯 Core Technical Focus
+- Finishing **FPLIP** (Factory Performance & Loss Intelligence Platform) — my end-of-year internship project, presenting to faculty this term
+- Building **Ledger** — a bitemporal, point-in-time feature store with a look-ahead-bias canary engine (local-first Python/DuckDB/Polars, no Spark)
+- Designing **Governed Vector Data Platform** — catalog, lineage (OpenLineage/Marquez), and a quality gate for embedding pipelines
 
-- **Data Platforms & Lakehouses**: Medallion architecture (Bronze/Silver/Gold), Delta Lake, schema contracts, watermarking, deduplication.
-- **Analytics Engineering**: Data modeling (staging, intermediate, marts), hash surrogate keys, incremental strategies, Jinja, dbt test suites.
-- **Orchestration & Quality**: Airflow DAG execution, YAML data contracts, quarantine routing, automated pytest integration, and dbt CI/CD workflows.
+## Selected Projects
 
----
+| Project | What it proves | Stack | Link |
+|---|---|---|---|
+| **Factory Performance & Loss Intelligence Platform** | Zero-budget manufacturing lakehouse built against a real production constraint (BigQuery Sandbox forbids DML) — solved with partition-decorator loads and a hand-rolled DDL-only SCD2. 18 ADRs document every major call. | BigQuery, dbt, Airflow (GitHub Actions), FastAPI, Superset, scikit-learn | *repo private — factory data; write-up available on request* |
+| **E-Commerce Lakehouse Platform** | Full Bronze→Silver→Gold lakehouse from raw CSVs: schema contracts with quarantine, incremental + watermarked + deduplicated Delta jobs, 13 dbt models, 3-task-group Airflow DAG, cross-layer reconciliation checks. | PySpark, Delta Lake, dbt, Airflow, MinIO, DuckDB | [GitHub](https://github.com/laila-kz/DataLakeHouse_project2-) |
+| **Agentic Delta Guard** | Data-quality gatekeeper for AI-agent tool events: schema/bounds/freshness contract validation, Bronze-vs-quarantine routing, 7 FastMCP tools for enforcement and audit, streaming ingestion via Kafka + Spark Structured Streaming. | Python, dbt, Delta Lake, PySpark, Kafka, FastMCP, pytest | *repo private — case study available* |
+| **End-to-End Analytics Engineering Pipeline** | Snowflake VARIANT semi-structured sources transformed through 7 dbt models (staging → dimensions → incremental facts), hash-based surrogate keys, 47 generic tests, dbt CI on GitHub Actions. | Snowflake, dbt, SQL, Jinja, GitHub Actions | [GitHub](https://github.com/laila-kz/end-to-end-analytics-engineering-pipeline) |
 
-### 🛠️ Technical Stack
+## How I work
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Data Engineering & Processing** | PySpark, dbt, Apache Airflow, Delta Lake, Polars, Pandas, Medallion Architecture |
-| **Data Warehouses & Storage** | Snowflake, BigQuery, DuckDB, MinIO, Parquet, PostgreSQL |
-| **Data Quality & DevOps** | YAML Schema Contracts, dbt tests, pytest, Docker, GitHub Actions, Terraform, Git |
-| **Languages & Streaming** | Python, SQL, Jinja, Apache Kafka, Spark Structured Streaming |
-| **Analytics & Web** | FastAPI, Apache Superset, Streamlit, Plotly |
+- Data contracts before pipelines — schema, bounds, and freshness checks are part of the design, not an afterthought
+- ADRs for every architectural decision, including tool choices I deliberately didn't make
+- dbt tests and CI as a baseline, not a bonus feature
+- No AI/agent framing on a project unless the AI component is doing something a deterministic pipeline genuinely couldn't
 
----
+## Stack
 
-### 🚀 Featured Data Engineering Projects
+| | |
+|---|---|
+| **Data Engineering** | Python, SQL, PySpark, dbt, Delta Lake, Airflow, Medallion Architecture |
+| **Warehouses & Storage** | BigQuery, Snowflake, DuckDB, MinIO, PostgreSQL, Parquet |
+| **Quality & CI/CD** | Data contracts, dbt tests, pytest, Docker, GitHub Actions, Terraform |
+| **Streaming** | Apache Kafka, Spark Structured Streaming |
+| **AI/Analytics-adjacent** | Feature engineering, ML pipelines, FastAPI, Streamlit, Plotly |
 
-#### 1. [E-Commerce Lakehouse Platform](https://github.com/laila-kz/DataLakeHouse_project2-)
-*PySpark • Delta Lake • dbt • Apache Airflow • MinIO • DuckDB • SQL*
-- Architected a raw-to-Gold medallion lakehouse implementing incremental watermarking, deduplication, and automated quarantine routing via YAML schema contracts.
-- Built 13 dbt models (staging, intermediate, marts) on DuckDB featuring 10 singular data quality tests and cross-layer reconciliation checks.
-- Orchestrated pipeline tasks and automated quality gates using a multi-group Airflow DAG over S3-compatible MinIO storage.
+## Certifications
 
-#### 2. [End-to-End Analytics Engineering Pipeline](https://github.com/laila-kz/end-to-end-analytics-engineering-pipeline)
-*Snowflake • dbt • SQL • Jinja • GitHub Actions*
-- Transformed semi-structured Snowflake VARIANT datasets through 7 dbt models utilizing hash-based surrogate keys and incremental delete+insert strategies.
-- Implemented 47 generic dbt test suites (`not_null`, `unique`, `accepted_values`, `relationships`) and automated testing via GitHub Actions CI pipelines.
+SQL (Advanced) — HackerRank · Associate Data Engineer — DataCamp · Databricks Fundamentals & Deploy Workloads with Lakeflow Jobs — Databricks Academy · dbt Fundamentals — dbt Labs · Data Engineering on AWS: Foundations — AWS · Data Governance, GDPR & Data Privacy Fundamentals — DataCamp · OCI AI Foundations — Oracle · Microsoft Fabric Data Engineer (DP-700, in progress)
 
-#### 3. [Quant Feature Store & Point-in-Time Join Engine (`Ledger`)](https://github.com/laila-kz/Ledger)
-*Python • Polars • DuckDB • Parquet • pytest*
-- Engineered bitemporal point-in-time feature joins (valid time / known time) over append-only Parquet market datasets to prevent lookahead bias.
-- Implemented an AST leakage linter (4 rules), 6 runtime canary checks, append-only audit logs, and SHA-256 lineage manifests.
+## Get in touch
 
----
-
-### 📜 Certifications & Accreditations
-
-- **Associate Data Engineer** — DataCamp
-- **SQL (Advanced)** — HackerRank
-- **Lakeflow Jobs & Fundamentals Accreditation** — Databricks Academy
-- **dbt Fundamentals** — dbt Labs
-- **Data Engineering on AWS (Foundations)** — AWS
-- **OCI AI Foundations Associate** — Oracle
-
----
-
-### 📫 Connect with Me
-
-- **LinkedIn**: [linkedin.com/in/laila-khezaz](https://linkedin.com/in/laila-khezaz)
-- **GitHub**: [github.com/laila-kz](https://github.com/laila-kz)
-- **Email**: [laila.khezaz@gmail.com](mailto:laila.khezaz@gmail.com)
+Open to Data Engineer / AI Engineer internships (4–6 months), Europe or Canada. Reach me at [laila.khezaz@gmail.com](mailto:laila.khezaz@gmail.com) or on [LinkedIn](https://linkedin.com/in/laila-khezaz).
