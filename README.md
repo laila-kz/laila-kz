@@ -1,10 +1,11 @@
 
-<h1 align="center">Laila Khezaz</h1>
+<h1 align="center">Leila Khezaz</h1>
 <p align="center"><b>Data Engineer</b> — lakehouses, dbt, and the contracts that keep them honest</p>
-<p align="center">Safi / Casablanca, Morocco &nbsp;·&nbsp; <a href="mailto:leilakhezaz07@gmail.com">Email</a> &nbsp;·&nbsp; <a href="[https://linkedin.com/in/laila-khezaz](https://www.linkedin.com/in/leila-k-a57779336/)">LinkedIn</a></p>
+<p align="center">Safi / Casablanca, Morocco &nbsp;·&nbsp; <a href="mailto:leilakhezaz07@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/leila-k-a57779336/">LinkedIn</a>
 
 ---
 > "Data engineering is the intersection of security, data management, DataOps, data architecture, orchestration, and software engineering." — Joe Reis & Matt Housley
+
 Hi, I’m Laila. I build reliable data infrastructure and lakehouses with a strong focus on data validation, test coverage, and clear architecture. Right now, I'm wrapping up my manufacturing lakehouse internship (FPLIP) and working on two main projects: Ledger, a bitemporal feature store to prevent data leakage, and a Governed Vector Data Platform for reliable embedding pipelines.
 
 I document key decisions with ADRs—favoring simple, proven tools over unnecessary complexity.
