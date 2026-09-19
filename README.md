@@ -66,7 +66,14 @@ I document key decisions with ADRs—favoring simple, proven tools over unnecess
 
 ## Certifications
 
-SQL (Advanced) — HackerRank · Associate Data Engineer — DataCamp · Databricks Fundamentals & Deploy Workloads with Lakeflow Jobs — Databricks Academy · dbt Fundamentals — dbt Labs · Data Engineering on AWS: Foundations — AWS · Data Governance, GDPR & Data Privacy Fundamentals — DataCamp · OCI AI Foundations — Oracle · Microsoft Fabric Data Engineer (DP-700, in progress)
+- SQL (Advanced) — HackerRank
+- Associate Data Engineer — DataCamp
+- Databricks Fundamentals & Deploy Workloads with Lakeflow Jobs — Databricks Academy
+- dbt Fundamentals — dbt Labs
+- Data Engineering on AWS: Foundations — AWS
+- Data Governance, GDPR & Data Privacy Fundamentals — DataCamp
+- OCI AI Foundations — Oracle
+- Microsoft Fabric Data Engineer (DP-700) — in progress
 
 ## Get in touch
 
