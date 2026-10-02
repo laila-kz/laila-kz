@@ -1,7 +1,7 @@
 
 <h1 align="center">Leila Khezaz</h1>
 <p align="center"><b>Data Engineer</b> — lakehouses, dbt, and the contracts that keep them honest</p>
-<p align="center">Safi / Casablanca, Morocco &nbsp;·&nbsp; <a href="mailto:leilakhezaz07@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/leila-k-a57779336/">LinkedIn</a>
+<p align="center">Safi / Casablanca, Morocco &nbsp;·&nbsp; [Portfolio](https://laila-khezaz-portfolio.vercel.app/) <a href="mailto:leilakhezaz07@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/leila-k-a57779336/">LinkedIn</a>
 
 ---
 > "Data engineering is the intersection of security, data management, DataOps, data architecture, orchestration, and software engineering." — Joe Reis & Matt Housley
