@@ -8,7 +8,7 @@
 ---
 > "Data engineering is the intersection of security, data management, DataOps, data architecture, orchestration, and software engineering." — Joe Reis & Matt Housley
 
-Hi, I’m Laila. I build reliable data infrastructure and lakehouses with a strong focus on data validation, test coverage, and clear architecture. Right now, I'm wrapping up my manufacturing lakehouse internship (FPLIP) and working on two main projects: Ledger, a bitemporal feature store to prevent data leakage, and a Governed Vector Data Platform for reliable embedding pipelines.
+Hi, I’m Lily. I build reliable data infrastructure and lakehouses with a strong focus on data validation, test coverage, and clear architecture. Right now, I'm wrapping up my manufacturing lakehouse internship (FPLIP) and working on two main projects: Ledger, a bitemporal feature store to prevent data leakage, and a Governed Vector Data Platform for reliable embedding pipelines.
 
 I document key decisions with ADRs—favoring simple, proven tools over unnecessary complexity.
 ## Projects
@@ -76,7 +76,6 @@ I document key decisions with ADRs—favoring simple, proven tools over unnecess
 - Data Engineering on AWS: Foundations — AWS
 - Data Governance, GDPR & Data Privacy Fundamentals — DataCamp
 - OCI AI Foundations — Oracle
-- Microsoft Fabric Data Engineer (DP-700) — in progress
 
 ## Get in touch
 
